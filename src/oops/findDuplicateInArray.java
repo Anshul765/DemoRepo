@@ -14,8 +14,7 @@ public class findDuplicateInArray {
 			}
 			
 		}
-		
- 
+
 	}
 
 }
